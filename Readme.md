@@ -44,49 +44,34 @@ A **production-ready, full-stack language learning application** that combines A
 
 ## 🎬 Feature   video
 
+---
 
 #### 🔐 Account Setup & Language Selection
 Registration, login, profile setup and language selection
-<video width="100%" height="400" controls>
-  <source src="Demo/account Creation.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<video controls src="Demo/account Creation.mp4" title="Acccount Creation & Setup"></video>
 
 ---
 
 #### 📚 Interactive Lessons
 Browse categories, learn vocabulary, track progress, resume lessons
-<video width="100%" height="400" controls>
-  <source src="Demo/lessons.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<video controls src="Demo/lessons.mp4" title="Lessons"></video>
 
 ---
 
 #### 🎤 AI-Powered Practice Range
-Speech recognition, AI tutor conversation, real-time feedback, pronunciation coaching
-<video width="100%" height="400" controls>
-  <source src="Demo/practice range.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+Talk to AI in real time
+<video controls src="Demo/practice range.mp4" title="Practice Range"></video>
 ---
 
 #### 🔧 Admin Dashboard & Controls
 User management, vocabulary CRUD, system health monitoring, analytics portal
-<video width="100%" height="400" controls>
-  <source src="Demo/admin.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<video controls src="Demo/admin.mp4" title="Admin"></video>
 
 ---
 
 #### 🐳 Docker Setup & Deployment
 Configuration, container orchestration, deployment instructions
-<video width="100%" height="400" controls>
-  <source src="Demo/setup docker.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<video controls src="Demo/setup docker.mp4" title="Start Docker"></video>
 
 ---
 
