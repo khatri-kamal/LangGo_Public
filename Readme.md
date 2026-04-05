@@ -48,30 +48,50 @@ A **production-ready, full-stack language learning application** that combines A
 
 #### 🔐 Account Setup & Language Selection
 Registration, login, profile setup and language selection
-<video controls src="Demo/account Creation.mp4" title="Acccount Creation & Setup"></video>
+
+
+
+https://github.com/user-attachments/assets/67dbd9ff-601d-4522-8559-aee91e0017d8
+
 
 ---
 
 #### 📚 Interactive Lessons
 Browse categories, learn vocabulary, track progress, resume lessons
-<video controls src="Demo/lessons.mp4" title="Lessons"></video>
+
+
+
+https://github.com/user-attachments/assets/d0890831-0e1b-4bd4-bbdb-21b9f4748d63
+
 
 ---
 
 #### 🎤 AI-Powered Practice Range
 Talk to AI in real time
-<video controls src="Demo/practice range.mp4" title="Practice Range"></video>
+
+
+
+https://github.com/user-attachments/assets/ab4d00a2-9020-483c-83bd-87b4dbd49bf3
+
 ---
 
 #### 🔧 Admin Dashboard & Controls
 User management, vocabulary CRUD, system health monitoring, analytics portal
-<video controls src="Demo/admin.mp4" title="Admin"></video>
+
+
+https://github.com/user-attachments/assets/fd2f0a3f-3ea7-4930-8217-d040be6ee3c9
+
+
 
 ---
 
 #### 🐳 Docker Setup & Deployment
 Configuration, container orchestration, deployment instructions
-<video controls src="Demo/setup docker.mp4" title="Start Docker"></video>
+
+
+https://github.com/user-attachments/assets/4eb146af-121a-4169-be58-44860eb4f0dc
+
+
 
 ---
 
