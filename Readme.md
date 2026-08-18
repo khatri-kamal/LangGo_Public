@@ -51,8 +51,7 @@ A **production-ready, full-stack language learning application** that combines A
 #### 🔐 Account Setup & Language Selection Demo
 Registration, login, profile setup and language selection
 
-https://github.com/user-attachments/assets/67dbd9ff-601d-4522-8559-aee91e0017d8
-
+https://github.com/user-attachments/assets/47fd8c66-0842-43cc-a8d1-63c84e48c1b3
 
 ### 🏆 **Gamification & Motivation**
 - **XP & Level System**: Earn experience points and progress through levels
@@ -65,7 +64,7 @@ https://github.com/user-attachments/assets/67dbd9ff-601d-4522-8559-aee91e0017d8
 #### 📚 Interactive Lessons Demo
 Browse categories, learn vocabulary, track progress, resume lessons
 
-https://github.com/user-attachments/assets/d0890831-0e1b-4bd4-bbdb-21b9f4748d63
+https://github.com/user-attachments/assets/520a95c9-a569-45af-9e28-8999ec77958e
 
 ## ✨ Features & Capabilities
 
@@ -80,7 +79,7 @@ https://github.com/user-attachments/assets/d0890831-0e1b-4bd4-bbdb-21b9f4748d63
 #### 🎤 AI-Powered Practice Range Demo
 Talk to AI in real time
 
-https://github.com/user-attachments/assets/ab4d00a2-9020-483c-83bd-87b4dbd49bf3
+https://github.com/user-attachments/assets/4047fbf2-ef70-4739-b1d2-e2d0dbb931de
 
 ### 🎤 **AI-Powered Conversation**
 - **Real-Time Speech Recognition**: Offline Vosk-powered STT with confidence scoring
@@ -93,7 +92,7 @@ https://github.com/user-attachments/assets/ab4d00a2-9020-483c-83bd-87b4dbd49bf3
 #### 🔧 Admin Dashboard & Controls Demo
 User management, vocabulary CRUD, system health monitoring, analytics portal
 
-https://github.com/user-attachments/assets/fd2f0a3f-3ea7-4930-8217-d040be6ee3c9
+https://github.com/user-attachments/assets/79a84c36-1ee4-4ec4-8329-6257e568675a
 
 ### 🛡️ **Admin Dashboard**
 - **User Management**: View learner progress, reset data, manage accounts
@@ -105,7 +104,7 @@ https://github.com/user-attachments/assets/fd2f0a3f-3ea7-4930-8217-d040be6ee3c9
 #### 🐳 Docker Setup & Deployment Demo
 Configuration, container orchestration, deployment instructions
 
-https://github.com/user-attachments/assets/4eb146af-121a-4169-be58-44860eb4f0dc
+https://github.com/user-attachments/assets/06d69c8b-4e78-4457-ac50-3c296b6efd80
 
 ---
 
